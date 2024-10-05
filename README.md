@@ -1,2 +1,2 @@
-## JS101
-# javascript topics
+# JS101
+Javascript Topics
