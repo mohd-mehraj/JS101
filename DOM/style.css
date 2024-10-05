@@ -1,0 +1,67 @@
+/* #heading{
+    color: blue;
+    background-color: lightgoldenrodyellow;
+     }
+
+button{
+    color: rebeccapurple;
+    background-color: aquamarine;
+}
+
+body{
+    background: lightblue;
+} */
+
+/* practice problem 2  */
+ /* .box{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    margin: 5px;
+    background-color: aquamarine;
+    text-align: center;
+ } */
+
+
+ /* #box{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: wheat;
+    border: 1px solid black;
+    text-align: center;
+ } */
+
+  /* Bulb ON and OFF project: */
+/* #bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid #000;
+ }
+
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin: 80px;
+} */
+
+#box{
+    height: 250px;
+    width: 100px;
+    background-color: forestgreen;
+    color: white;
+    border: 1px solid black;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+
+}
+
+.newClass {
+    background-color: green;
+}
+
+.newContent{
+    background-color: rgb(17, 221, 221);
+}
