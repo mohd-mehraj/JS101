@@ -1,1 +1,2 @@
-# learnJS
+## JS101
+# javascript topics
