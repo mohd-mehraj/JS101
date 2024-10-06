@@ -44,7 +44,7 @@ console.log(average);
 
 
 
-// //for-of loop
+// for-of loop
 
 for(val of marks){
    sum = sum + val;
